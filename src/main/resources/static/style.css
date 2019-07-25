@@ -1,13 +1,14 @@
 body {
-    font-family: 'Alegreya', serif;    
-    color: silver;
+    color: 	#888888;
+    font-family: 'Questrial', sans-serif;
 }
 
 h1 {
-    color: aquamarine;
-   font-size: 350%;
+    font-family: 'Eagle Lake', cursive;
+    color: #85e0a3;
+    font-size: 350%;
 }
 
 h3 {
-    font-style: italic;
+
 }
